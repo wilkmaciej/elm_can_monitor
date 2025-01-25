@@ -11,5 +11,3 @@ This project uses an ELM327 adapter to read CAN bus data from a car and send it 
 
 - `main.py`: Main script to initialize the serial connection, read CAN bus data, and send it over UDP.
 - `test_server.py`: Test server to receive and print the UDP messages for debugging.
-
-## Usage
